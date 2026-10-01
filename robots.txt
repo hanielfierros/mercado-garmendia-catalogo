@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://hanielfierros.github.io/mercado-garmendia-catalogo/sitemap.xml
