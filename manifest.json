@@ -1,0 +1,12 @@
+{
+  "name": "Mercado Garmendia — Catálogo",
+  "short_name": "Garmendia",
+  "description": "Catálogo de locales y productos del Mercado Garmendia (Culiacán).",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#7A1630",
+  "icons": [
+    { "src": "garmen-2.jpg", "sizes": "160x72", "type": "image/jpeg", "purpose": "any" }
+  ]
+}
